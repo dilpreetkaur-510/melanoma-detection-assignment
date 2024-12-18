@@ -42,7 +42,7 @@
 <!-- As the libraries versions keep on changing, it is recommended to mention the version of library used in this project -->
 
 ## Acknowledgements
-- This project was based in Melanoma detection assignment in upGrad course.
+- This project was based on Melanoma detection assignment in upGrad course.
 
 ## Contact
 Created by @dilpreetkaur-510
